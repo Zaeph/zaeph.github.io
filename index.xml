@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>De Satirica</title>
+    <link>https://zaeph.github.io/</link>
+    <description>Recent content on De Satirica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://zaeph.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://zaeph.github.io/posts/test/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://zaeph.github.io/posts/test/</guid>
+      <description>Stop stalking. ಠ_ಠ
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis sed diam elementum mollis in quis nulla. Suspendisse leo risus, gravida a dui eu, rutrum faucibus purus. Donec nec ornare magna. Ut ullamcorper ullamcorper metus sed imperdiet. Quisque quis risus pulvinar, facilisis quam ut, imperdiet nulla. Maecenas et elit libero. Sed id nulla vel dolor ornare hendrerit. Pellentesque libero lectus, imperdiet nec placerat sit amet, vehicula aliquam arcu.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://zaeph.github.io/about/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://zaeph.github.io/about/</guid>
+      <description>Hello there!
+My name is Leo Vivier, and I’m an English teacher in France.
+I’ve created this blog to practise writing on my topics of interests because it’s something that I find intimidating, even though I’m eager to share my discoveries. I’m specialised in Literature and Media/Visual Studies, but I love to dabble in other fields and experiment (I’m especially fond of General Linguistics, Philosophy, and History).
+I intend to write on my academic topics, but I’d also love to write about the Free Softwares that I use to keep myself organised (e.</description>
+    </item>
+    
+  </channel>
+</rss>

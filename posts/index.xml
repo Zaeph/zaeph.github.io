@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on De Satirica</title>
+    <link>https://zaeph.github.io/posts/</link>
+    <description>Recent content in Posts on De Satirica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://zaeph.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://zaeph.github.io/posts/test/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://zaeph.github.io/posts/test/</guid>
+      <description>Stop stalking. ಠ_ಠ
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis sed diam elementum mollis in quis nulla. Suspendisse leo risus, gravida a dui eu, rutrum faucibus purus. Donec nec ornare magna. Ut ullamcorper ullamcorper metus sed imperdiet. Quisque quis risus pulvinar, facilisis quam ut, imperdiet nulla. Maecenas et elit libero. Sed id nulla vel dolor ornare hendrerit. Pellentesque libero lectus, imperdiet nec placerat sit amet, vehicula aliquam arcu.</description>
+    </item>
+    
+  </channel>
+</rss>
