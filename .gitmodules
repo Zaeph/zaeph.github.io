@@ -1,0 +1,36 @@
+[submodule "themes/pickles"]
+	path = themes/pickles
+	url = https://github.com/mismith0227/hugo_theme_pickles.git
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal.git
+[submodule "themes/bilberry"]
+	path = themes/bilberry
+	url = https://github.com/Lednerb/bilberry-hugo-theme.git
+[submodule "themes/themes/natrium"]
+	path = themes/themes/natrium
+	url = https://github.com/mobybit/hugo-natrium-theme.git
+[submodule "themes/natrium"]
+	path = themes/natrium
+	url = https://github.com/mobybit/hugo-natrium-theme.git
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even.git
+[submodule "themes/sam"]
+	path = themes/sam
+	url = https://github.com/hivickylai/hugo-theme-sam.git
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/gcushen/hugo-academic.git
+[submodule "themes/pixyll"]
+	path = themes/pixyll
+	url = git@github.com:azmelanar/hugo-theme-pixyll.git
+[submodule "themes/pickles_"]
+	path = themes/pickles_
+	url = https://github.com/mismith0227/hugo_theme_pickles.git
+[submodule "themes/coder"]
+	path = themes/coder
+	url = git@github.com:luizdepra/hugo-coder.git
+[submodule "public"]
+	path = public
+	url = git@github.com:Zaeph/zaeph.github.io.git

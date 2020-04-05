@@ -1,0 +1,46 @@
+#+STARTUP: indent inlineimages
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: posts
+# #+TITLE: 
+
+* Literature                                                    :@Literature:
+** Test
+:PROPERTIES:
+:EXPORT_FILE_NAME: test
+:EXPORT_DATE: 2020-04-05
+:END:
+Stop stalking. ಠ_ಠ
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis sed diam elementum mollis in quis nulla. Suspendisse leo risus, gravida a dui eu, rutrum faucibus purus. Donec nec ornare magna. Ut ullamcorper ullamcorper metus sed imperdiet. Quisque quis risus pulvinar, facilisis quam ut, imperdiet nulla. Maecenas et elit libero. Sed id nulla vel dolor ornare hendrerit. Pellentesque libero lectus, imperdiet nec placerat sit amet, vehicula aliquam arcu. Sed sit amet magna pharetra, tristique tortor ac, posuere tortor. Integer ac aliquam augue, at bibendum risus. Proin a leo mattis, commodo dolor et, eleifend nulla. Curabitur at odio quis dui cursus elementum non ac quam. Ut at pulvinar mi, in scelerisque erat. Phasellus condimentum imperdiet elit, vitae tincidunt lectus porttitor ut. Aliquam luctus turpis turpis, quis fringilla ipsum rhoncus in. Nam sit amet facilisis turpis.
+
+Vestibulum suscipit, nibh maximus commodo volutpat, tortor eros aliquet sapien, vel tincidunt mi neque id ante. In maximus libero vitae ligula mollis, ut tristique eros imperdiet. Cras fringilla lorem vitae nulla consequat, vitae porttitor eros laoreet. Cras in malesuada quam. Donec nec suscipit nibh. Donec nibh magna, venenatis eget nisl nec, malesuada porta tortor. In dictum egestas leo a aliquam. Aenean neque erat, ornare vitae vestibulum nec, bibendum ut lectus. Nulla interdum ligula sed vulputate iaculis. Nunc accumsan purus nec dui viverra ornare. Nullam convallis lorem nec metus finibus hendrerit. Ut luctus magna nunc, vel elementum orci luctus id. Praesent sit amet eleifend magna. Vivamus eu purus in massa accumsan dapibus ac vel arcu. Integer ex massa, elementum id luctus et, sodales in libero.
+
+Cras fermentum porttitor dictum. Duis lobortis mauris sed mi volutpat sodales. Etiam fermentum euismod ex ut lobortis. Vestibulum maximus nibh vel tellus aliquam feugiat. Duis id lacus ut orci porta volutpat. Donec luctus metus id ex iaculis aliquet. Maecenas pulvinar, lacus nec hendrerit sollicitudin, nulla nibh suscipit sem, elementum tempor tortor dolor a diam. Nulla consequat porta suscipit. Curabitur pellentesque ultrices nulla, eget varius lectus feugiat id. Maecenas fermentum enim eu urna dignissim malesuada. Maecenas ut sodales sapien. Nulla ex turpis, rhoncus quis nisl eget, pulvinar sagittis sapien.
+
+Nulla tristique fermentum tortor at varius. Fusce elementum porttitor facilisis. Nulla facilisi. Mauris vitae libero at sem ullamcorper volutpat vitae eu diam. Nulla venenatis diam sed sem sollicitudin dignissim. Donec hendrerit ante lacus, sit amet lobortis diam sagittis vitae. Suspendisse potenti. Aliquam laoreet ante at sapien pretium rutrum.
+
+Cras diam augue, cursus vitae mollis dictum, venenatis nec metus. Aenean at bibendum enim. Curabitur a orci cursus, eleifend velit vel, rutrum sapien. Curabitur lorem ligula, iaculis eu tincidunt eget, vehicula vitae ipsum. Proin quis tristique tortor. Donec vulputate molestie nisi suscipit rhoncus. Nullam consectetur lectus sed est hendrerit, ac volutpat eros rhoncus. 
+* ---------------------------------------------------------------------------
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: 
+:EXPORT_FILE_NAME: about
+:EXPORT_DATE: 2020-04-04
+:END:
+
+Hello there!
+
+My name is *Leo Vivier*, and I’m an English teacher in France.
+
+I’ve created this blog to *practise writing* on my topics of interests because it’s something that I find intimidating, even though I’m eager to share my discoveries.  I’m specialised in /Literature/ and /Media/Visual Studies/, but I love to dabble in other fields and experiment (I’m especially fond of /General Linguistics/, /Philosophy/, and /History/).
+
+I intend to write on my *academic topics*, but I’d also love to write about the *Free Softwares* that I use to keep myself organised (e.g. /Emacs/, /org-mode/, /Zotero/, etc.).
+
+I’ve /just/ started this blog, so it might take me some time to get the ball rolling, but I hope you’ll be able to find something you like!
+
+#+attr_html: :width 500px
+[[file:~/blog/static/img/murrow.jpg]]
+* COMMENT Local Variables                                           :ARCHIVE:
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:
