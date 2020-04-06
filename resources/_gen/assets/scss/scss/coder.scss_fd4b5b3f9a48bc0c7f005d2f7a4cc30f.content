@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
 @font-face {
   font-family: 'Bliss Pro';
   src: url("/fonts/Bliss Pro/BlissPro-Regular.otf");
@@ -48,7 +47,7 @@
 
 @font-face {
   font-family: 'Guyot Headline';
-  src: url("/fonts/Guyot Headline/GuyotHeadline-Black.otf");
+  src: url("/fonts/Guyot Headline/GuyotHeadline-BoldItalic.otf");
   font-weight: 700; }
 
 *,
@@ -315,6 +314,7 @@ figure {
   .centered .about {
     text-align: center; }
     .centered .about h1 {
+      font-family: "Guyot Headline", serif;
       margin-top: 2.0rem;
       margin-bottom: 0.5rem; }
     .centered .about h2 {
@@ -373,6 +373,7 @@ figure {
   .navigation a:hover, .navigation a:focus {
     color: #1565c0; }
   .navigation .navigation-title {
+    font-family: "Guyot Headline", serif;
     letter-spacing: 0.1rem;
     text-transform: uppercase; }
   .navigation .navigation-list {
