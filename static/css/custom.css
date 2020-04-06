@@ -1,6 +1,6 @@
 body {
     font-size: 1.9em;
-    line-height: 1.8em;
+    line-height: 1.6;
     text-rendering: optimizeLegibility;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 .content article {
-    max-width: 600px;
+    max-width: 530px;
 }
 
 .content article img {
