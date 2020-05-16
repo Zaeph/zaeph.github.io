@@ -1,10 +1,10 @@
 #+STARTUP: indent inlineimages
 #+HUGO_BASE_DIR: ../
 #+HUGO_SECTION: posts
-# #+TITLE: 
+#+BIBLIOGRAPHY: /home/zaeph/org/bib/monty-python.bib
 
 * Literature                                                    :@Literature:
-** Test
+** COMMENT Test
 :PROPERTIES:
 :EXPORT_FILE_NAME: test
 :EXPORT_DATE: 2020-04-05
@@ -13,13 +13,98 @@ Stop stalking. ಠ_ಠ
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis sed diam elementum mollis in quis nulla. Suspendisse leo risus, gravida a dui eu, rutrum faucibus purus. Donec nec ornare magna. Ut ullamcorper ullamcorper metus sed imperdiet. Quisque quis risus pulvinar, facilisis quam ut, imperdiet nulla. Maecenas et elit libero. Sed id nulla vel dolor ornare hendrerit. Pellentesque libero lectus, imperdiet nec placerat sit amet, vehicula aliquam arcu. Sed sit amet magna pharetra, tristique tortor ac, posuere tortor. Integer ac aliquam augue, at bibendum risus. Proin a leo mattis, commodo dolor et, eleifend nulla. Curabitur at odio quis dui cursus elementum non ac quam. Ut at pulvinar mi, in scelerisque erat. Phasellus condimentum imperdiet elit, vitae tincidunt lectus porttitor ut. Aliquam luctus turpis turpis, quis fringilla ipsum rhoncus in. Nam sit amet facilisis turpis.
 
-Vestibulum suscipit, nibh maximus commodo volutpat, tortor eros aliquet sapien, vel tincidunt mi neque id ante. In maximus libero vitae ligula mollis, ut tristique eros imperdiet. Cras fringilla lorem vitae nulla consequat, vitae porttitor eros laoreet. Cras in malesuada quam. Donec nec suscipit nibh. Donec nibh magna, venenatis eget nisl nec, malesuada porta tortor. In dictum egestas leo a aliquam. Aenean neque erat, ornare vitae vestibulum nec, bibendum ut lectus. Nulla interdum ligula sed vulputate iaculis. Nunc accumsan purus nec dui viverra ornare. Nullam convallis lorem nec metus finibus hendrerit. Ut luctus magna nunc, vel elementum orci luctus id. Praesent sit amet eleifend magna. Vivamus eu purus in massa accumsan dapibus ac vel arcu. Integer ex massa, elementum id luctus et, sodales in libero.
+*** Bibliography
 
-Cras fermentum porttitor dictum. Duis lobortis mauris sed mi volutpat sodales. Etiam fermentum euismod ex ut lobortis. Vestibulum maximus nibh vel tellus aliquam feugiat. Duis id lacus ut orci porta volutpat. Donec luctus metus id ex iaculis aliquet. Maecenas pulvinar, lacus nec hendrerit sollicitudin, nulla nibh suscipit sem, elementum tempor tortor dolor a diam. Nulla consequat porta suscipit. Curabitur pellentesque ultrices nulla, eget varius lectus feugiat id. Maecenas fermentum enim eu urna dignissim malesuada. Maecenas ut sodales sapien. Nulla ex turpis, rhoncus quis nisl eget, pulvinar sagittis sapien.
+1. Declercq, Dieter. ‘A Definition of Satire (And Why a Definition Matters)'. /The Journal of Aesthetics and Art Criticism/ 76, no. 3 (2018): 319--30. [[https://doi.org/10.1111/jaac.12563]].
+2. Gaal-Holmes, Patti. /A History of 1970s Experimental Film: Britain's Decade of Diversity/, 2015. [[http://site.ebrary.com/id/11061649]].
+3. Gournelos, Ted, and Viveca S. Greene, eds. /A Decade of Dark Humor: How Comedy, Irony, and Satire Shaped Post-9/11 America/. Place of publication not identified: Univ Pr Of Mississippi, 2013.
+4. Marr, Andrew. /A History of Modern Britain/, 2017.
+** COMMENT Citation test
+:PROPERTIES:
+:EXPORT_FILE_NAME: citations-example
+:EXPORT_HUGO_PANDOC_CITATIONS: t
+:EXPORT_BIBLIOGRAPHY: /home/zaeph/org/bib/monty-python.bib
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :nocite
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :link-citations true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :csl /home/zaeph/org/bib/csl/chicago-author-date.csl
+:END:
+Here is a test example file with an in-text citation where someone
+important says something important (e.g. @lent2015). And here is
+another bit of blah with a footnote citation.
+* Software                                                        :@Software:
+** A Love Letter to Emacs
+:PROPERTIES:
+:EXPORT_FILE_NAME: a-love-letter-to-emacs
+:EXPORT_DATE: 2020-04-27
+:DIR:      /home/zaeph/blog/content_org/img/
+:END:
 
-Nulla tristique fermentum tortor at varius. Fusce elementum porttitor facilisis. Nulla facilisi. Mauris vitae libero at sem ullamcorper volutpat vitae eu diam. Nulla venenatis diam sed sem sollicitudin dignissim. Donec hendrerit ante lacus, sit amet lobortis diam sagittis vitae. Suspendisse potenti. Aliquam laoreet ante at sapien pretium rutrum.
+*Emacs is /awesome/.*
 
-Cras diam augue, cursus vitae mollis dictum, venenatis nec metus. Aenean at bibendum enim. Curabitur a orci cursus, eleifend velit vel, rutrum sapien. Curabitur lorem ligula, iaculis eu tincidunt eget, vehicula vitae ipsum. Proin quis tristique tortor. Donec vulputate molestie nisi suscipit rhoncus. Nullam consectetur lectus sed est hendrerit, ac volutpat eros rhoncus. 
+Chances are, if you’re reading this, you’re probably familiar with academic research or software development.  My objective with this post is to tell you how much of an impact Emacs had in those two areas of my life.  My hope is that, by explaining to you the things I like most about it, you might be interested in trying it yourself, although I’m not harbouring much hope on this front.  We tend to be stuck in our ways, and for good reasons: it’s easier to maintain inertia than to challenge our tools and methods.  Whenever we encounter something new, we’re bound to judge it from the standpoint of our previous experiences, and the consequence of that is that tends to stack the odds against the new.  It’s this desire to maintain the /status quo/ that makes us so unadventurous and prevents us from improving as much as we could.
+
+…Tell me, you thought I was going off on a tangent right there, didn’t you?
+
+I wasn’t.
+
+On a /software/ level, Emacs is a /fantastic/ platform.  It provides you with modes which, through their combination, can provide the greatest flexibility you’ll find in any piece of software.  Many articles explore the topic, and I’d heartily invite you to consider them if I’ve piqued your interest.
+
+But this article is not about Emacs the /software/: it is about the /philosophy/ that Emacs taught me.  For this bit to make sense, I have to tell you a little more about myself.
+
+#+HTML: <hr>
+
+I’m an English major.  I’ve spent the last seven years of my life within academia, and I intend to keep walking that path for as long as it remains challenging and exciting.  You won’t find many of my peers in software development, and that’s because of the traditional divide between soft- and hard-sciences.  Many people are challenging this divide with great success, especially in the humanities, but the academic /diktat/ of specialisation has made it incredibly hard for most to explore their wide-ranging interests.  I was lucky to get that chance, getting to study three different fields in three different countries, and those experiences have informed the way I see the world.
+
+…But I wasn’t alone on this journey.  I had Emacs.
+
+#+HTML: <hr>
+
+I’ve discovered Emacs at a time when I was learning the ins and outs of research in a department of linguistics.  I wanted a tool that would allow me to centralise my notes in one place, and after a lot of research, I decided to give Emacs a shot.  And what I saw when I first launched the program was /spectacular/.  Mind you, I’d had trysts with programming before then, mostly for gaming-related projects, but nothing could have prepared me for what I was about to experience.
+
+…You know how they say that the Universe started with a /bang/?
+
+Well, Emacs starts with a /flashbang/ for most.
+
+#+ATTR_HTML: :width 500px
+#+CAPTION: Emacs in all its default, eye-scorching beauty.
+[[file:img/emacs-q.png]]
+
+After giving a few moments to your eyes to recover, you would be forgiven to feel a little underwhelmed.  Is /this/ really the tool that was prophesied to become the be-all and end-all of all your textual editing needs?  Is /this/ really the result of 40 odd years of development?  And yet, why am I feeling so strangely /attracted/ to it?
+
+I certainly was asking myself those questions when I first opened Emacs.  I’d seen introductory videos on /Org-mode/, and I was somewhat prepared mentally to confront the spartan interface, hoping that it would make me more /productive/.  It was also a time when I was getting into /Getting Things Done/ (/GTD/), and /Org-mode/ seemed particularly well-fitted for that purpose.  So, my expectations were prosaic, as was my life to some extent.  I was being funnelled down the academic /cursus honorum/ into a position that I hardly desired, but I was stuck thinking that this was the only way.
+
+I’ve never been so glad to be wrong.
+
+#+HTML: <hr>
+
+Something changed when I discovered Emacs.
+
+[To be continued…]
+
+
+
+
+
+
+
+# I was plagued with both a passion for literature and code, and the last decade of my life has been about finding a balance between the two.  Somehow, however, it felt more like trying to get a coin to land on its edge after casting it in the air.  Every step I took on the academic ladder felt as if I had to prune my other interests,
+
+
+
+#  informed most of my decisions in my life, from learning the ins and outs of scholarly work in a 
+
+
+
+
+
+# It introduces a spectrum of legitimacy to each and every field.
+
+#   During my studies, I’ve spent a year of my life in a department of General Linguistics, learning the ins and outs of phonology and experimental phonetics.  If you’d asked me at the time where I stood on the spectrum between soft- and hard-sciences, I’d have told you that linguistics was a paragon of method, and that we were most assuredly going to gain the recognition that we deserved from the Sciences™!  Mind you, this is the period when I got interested in Emacs as a means to be
+
+# But this article is not about Emacs the /software/, but Emacs the philosophy that Emacs has taught me.  To be entirely frank, 
+
+# It’s hard to put into words just how much impact Emacs has had on my life.
+
 * ---------------------------------------------------------------------------
 * About
 :PROPERTIES:
