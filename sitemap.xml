@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zaeph.github.io/posts/a-love-letter-to-emacs/</loc>
+    <loc>https://zaeph.net/posts/a-love-letter-to-emacs/</loc>
     <lastmod>2020-04-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zaeph.github.io/categories/</loc>
+    <loc>https://zaeph.net/categories/</loc>
     <lastmod>2020-04-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zaeph.github.io/posts/</loc>
+    <loc>https://zaeph.net/</loc>
     <lastmod>2020-04-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zaeph.github.io/categories/software/</loc>
+    <loc>https://zaeph.net/posts/</loc>
     <lastmod>2020-04-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zaeph.github.io/about/</loc>
+    <loc>https://zaeph.net/categories/software/</loc>
+    <lastmod>2020-04-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zaeph.net/about/</loc>
     <lastmod>2020-04-04T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zaeph.github.io/</loc>
-    <lastmod>2020-04-04T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zaeph.github.io/tags/</loc>
+    <loc>https://zaeph.net/tags/</loc>
   </url>
   
 </urlset>
