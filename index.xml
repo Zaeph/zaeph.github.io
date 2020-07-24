@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>De Satirica</title>
-    <link>https://zaeph.com/</link>
+    <link>https://zaeph.net/</link>
     <description>Recent content on De Satirica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://zaeph.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zaeph.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Love Letter to Emacs</title>
-      <link>https://zaeph.com/posts/a-love-letter-to-emacs/</link>
+      <link>https://zaeph.net/posts/a-love-letter-to-emacs/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://zaeph.com/posts/a-love-letter-to-emacs/</guid>
+      <guid>https://zaeph.net/posts/a-love-letter-to-emacs/</guid>
       <description>Emacs is awesome.
 Chances are, if you’re reading this, you’re probably familiar with academic research or software development. My objective with this post is to tell you how much of an impact Emacs had in those two areas of my life. My hope is that, by explaining to you the things I like most about it, you might be interested in trying it yourself, although I’m not harbouring much hope on this front.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://zaeph.com/about/</link>
+      <link>https://zaeph.net/about/</link>
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://zaeph.com/about/</guid>
+      <guid>https://zaeph.net/about/</guid>
       <description>Hello there!
 My name is Leo Vivier, and I’m an English teacher in France.
 I’ve created this blog to practise writing on my topics of interests because it’s something that I find intimidating, even though I’m eager to share my discoveries. I’m specialised in Literature and Media/Visual Studies, but I love to dabble in other fields and experiment (I’m especially fond of General Linguistics, Philosophy, and History).
