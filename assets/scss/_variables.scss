@@ -27,48 +27,48 @@
 
 
 
-@font-face {
-    font-family: 'Guyot Text';
-    src: url('/fonts/Guyot Text/GuyotText-Regular.otf');
-    font-style: normal;
-    font-weight: 300;
-}
+// @font-face {
+//     font-family: 'Guyot Text';
+//     src: url('/fonts/Guyot Text/GuyotText-Regular.otf');
+//     font-style: normal;
+//     font-weight: 300;
+// }
 
-@font-face {
-    font-family: 'Guyot Text';
-    src: url('/fonts/Guyot Text/GuyotText-RegularItalic.otf');
-    font-style: italic;
-    font-weight: 300;
-}
+// @font-face {
+//     font-family: 'Guyot Text';
+//     src: url('/fonts/Guyot Text/GuyotText-RegularItalic.otf');
+//     font-style: italic;
+//     font-weight: 300;
+// }
 
-@font-face {
-    font-family: 'Guyot Text';
-    src: url('/fonts/Guyot Text/GuyotText-Bold.otf');
-    font-style: normal;
-    font-weight: 700;
-}
+// @font-face {
+//     font-family: 'Guyot Text';
+//     src: url('/fonts/Guyot Text/GuyotText-Bold.otf');
+//     font-style: normal;
+//     font-weight: 700;
+// }
 
-@font-face {
-    font-family: 'Guyot Text';
-    src: url('/fonts/Guyot Text/GuyotText-BoldItalic.otf');
-    font-style: italic;
-    font-weight: 700;
-}
+// @font-face {
+//     font-family: 'Guyot Text';
+//     src: url('/fonts/Guyot Text/GuyotText-BoldItalic.otf');
+//     font-style: italic;
+//     font-weight: 700;
+// }
 
 
 
-@font-face {
-    font-family: 'Guyot Headline';
-    src: url('/fonts/Guyot Headline/GuyotHeadline-BoldItalic.otf');
-    font-weight: 700;
-}
+// @font-face {
+//     font-family: 'Guyot Headline';
+//     src: url('/fonts/Guyot Headline/GuyotHeadline-BoldItalic.otf');
+//     font-weight: 700;
+// }
 
 
 
 // Fonts
-$text-font-family: "Guyot Text", Merriweather, Georgia, serif;
+$text-font-family: "Bliss Pro", Merriweather, Georgia, serif;
 $heading-font-family: "Bliss Pro", Lato, Helvetica, sans-serif;
-$stylised-heading-font-family: "Guyot Headline", serif;
+$stylised-heading-font-family: "Bliss Pro", serif;
 $code-font-family: 'Source Code Pro', 'Lucida Console', monospace;
 
 // Colors

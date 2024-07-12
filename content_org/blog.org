@@ -32,7 +32,7 @@ Here is a test example file with an in-text citation where someone
 important says something important (e.g. @lent2015). And here is
 another bit of blah with a footnote citation.
 * Software                                                        :@Software:
-** A Love Letter to Emacs
+** COMMENT A Love Letter to Emacs
 :PROPERTIES:
 :EXPORT_FILE_NAME: a-love-letter-to-emacs
 :EXPORT_DATE: 2020-04-27

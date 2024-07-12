@@ -7,7 +7,7 @@
 # # theme = "minimal"
 # # theme = "academic"
 
-baseurl = "https://zaeph.github.io/"
+baseurl = "https://zaeph.net/"
 title = "De Satirica"
 theme = "coder"
 languagecode = "en"
@@ -28,7 +28,7 @@ pygmentscodefencesguesssyntax = true
     description = "Leo Vivier's personal website"
     keywords = "blog,developer,personal"
     avatar = false
-    avatarurl = "img/chill.svg"
+    avatarurl = "img/logo.svg"
     # avatarurl = "img/murrow.jpg"
 
     colorscheme = "light"
@@ -59,6 +59,11 @@ pygmentscodefencesguesssyntax = true
 #     icon = "fab fa-gitlab fa-2x"
 #     weight = 2
 #     url = "https://gitlab.com/johndoe/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 3
+    url = "https://www.linkedin.com/in/leo-vivier/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
